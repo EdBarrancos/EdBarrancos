@@ -3,7 +3,7 @@
 ## Who am I?
 
 My name is Eduardo Barrancos
-I am still a student at [Instituto Superior Tecnico in Lisbon](https://tecnico.ulisboa.pt/pt/), Portugal.
+I am still a student at [Instituto Superior Tecnico](https://tecnico.ulisboa.pt/pt/) in Lisbon, Portugal.
 Despite my lack of experience I am always eager to learn.
 
 ## Projects
