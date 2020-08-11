@@ -9,8 +9,8 @@ Despite my lack of experience I am always eager to learn.
 
 ## Projects
 
-- Building a simple website
-- Making a Discord bot
+- Building a [simple website](https://github.com/EdBarrancos/NLW)
+- Making a [Discord bot](https://github.com/EdBarrancos/The_GM)
 - Making a game using the Godot engine
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EdBarrancos)](https://github.com/anuraghazra/github-readme-stats)
