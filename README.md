@@ -13,7 +13,7 @@ Despite my lack of experience I am always eager to learn.
 - Making a Discord bot
 - Making a game using the Godot engine
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EdBarrancas)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EdBarrancos)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **EdBarrancos/EdBarrancos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
