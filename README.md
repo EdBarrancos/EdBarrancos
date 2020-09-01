@@ -7,6 +7,8 @@ My name is Eduardo Barrancos
 I am still a student at [Instituto Superior Tecnico](https://tecnico.ulisboa.pt/pt/) in Lisbon, Portugal.
 Despite my lack of experience I am always eager to learn.
 
+[Itch.io account](https://pessego.itch.io)
+
 ## Projects
 
 - Building a [simple website](https://github.com/EdBarrancos/NLW)
