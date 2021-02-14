@@ -13,7 +13,7 @@ Despite my lack of experience I am always eager to learn.
 
 - Building a [simple website](https://github.com/EdBarrancos/NLW)
 - Making a [Discord bot](https://github.com/EdBarrancos/The_GM)
-- Making a game using the Godot engine
+- Making a [game using the Godot engine](https://github.com/EdBarrancos/ShroudingerProject)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EdBarrancos)](https://github.com/anuraghazra/github-readme-stats)
 
