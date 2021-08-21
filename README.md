@@ -13,7 +13,7 @@ Despite my lack of experience I am always eager to learn.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=EdBarrancos&theme=merko)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=EdBarrancos&theme=merko&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **EdBarrancos/EdBarrancos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
