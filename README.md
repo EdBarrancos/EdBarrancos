@@ -9,6 +9,8 @@ Despite my lack of experience I am always eager to learn.
 
 [Itch.io account](https://pessego.itch.io)
 
+[Linkedin](https://www.linkedin.com/in/eduardo-barrancos-72675417a/)
+
 [Instagram account](https://www.instagram.com/reallyokeyfruit/)
 
 ---
