@@ -4,14 +4,16 @@
 
 My name is Eduardo Barrancos
 
-I am still a student at [Instituto Superior Tecnico](https://tecnico.ulisboa.pt/pt/) in Lisbon, Portugal.
-Despite my lack of experience I am always eager to learn.
+I am a student at [Instituto Superior Tecnico](https://tecnico.ulisboa.pt/pt/), working at [Premium Minds](https://premium-minds.com/) and member of [GameDevTecnico](https://gamedev.tecnico.ulisboa.pt/).
+Programmer and Gamedev enthusiastc always eager to learn.
 
 [Itch.io account](https://pessego.itch.io)
 
 [Linkedin](https://www.linkedin.com/in/eduardo-barrancos-72675417a/)
 
 [Instagram account](https://www.instagram.com/reallyokeyfruit/)
+
+[Twitter Account](https://twitter.com/ReallyOkeyFruit)
 
 ---
 
