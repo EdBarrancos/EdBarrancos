@@ -4,16 +4,11 @@
 
 My name is Eduardo Barrancos
 
-I am a student at [Instituto Superior Tecnico](https://tecnico.ulisboa.pt/pt/), working at [Premium Minds](https://premium-minds.com/) and member of [GameDevTecnico](https://gamedev.tecnico.ulisboa.pt/).
+I am a student at [Instituto Superior Tecnico](https://tecnico.ulisboa.pt/pt/), working at [Premium Minds](https://premium-minds.com/) and a member of [GameDevTecnico](https://gamedev.tecnico.ulisboa.pt/).
+
 Programmer and Gamedev enthusiastc always eager to learn.
 
-[Itch.io account](https://pessego.itch.io)
-
-[Linkedin](https://www.linkedin.com/in/eduardo-barrancos-72675417a/)
-
-[Instagram account](https://www.instagram.com/reallyokeyfruit/)
-
-[Twitter Account](https://twitter.com/ReallyOkeyFruit)
+[Itch.io account](https://pessego.itch.io) | [Linkedin](https://www.linkedin.com/in/eduardo-barrancos-72675417a/) | [Instagram account](https://www.instagram.com/reallyokeyfruit/) | [Twitter Account](https://twitter.com/ReallyOkeyFruit)
 
 ---
 
