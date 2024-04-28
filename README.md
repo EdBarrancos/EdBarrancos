@@ -4,7 +4,7 @@
 
 My name is Eduardo Barrancos
 
-I am a student at [Instituto Superior Tecnico](https://tecnico.ulisboa.pt/pt/), working at [Premium Minds](https://premium-minds.com/) and a member of [GameDevTecnico](https://gamedev.tecnico.ulisboa.pt/).
+I am a student at [Instituto Superior Tecnico](https://tecnico.ulisboa.pt/pt/), working at [Premium Minds](https://premium-minds.com/) and a member of [GameDev Tecnico](https://gamedev.tecnico.ulisboa.pt/).
 
 Programmer and Gamedev enthusiastc always eager to learn.
 
