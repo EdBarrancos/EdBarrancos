@@ -4,15 +4,15 @@
 
 My name is Eduardo Barrancos
 
-I am a student at [Instituto Superior Tecnico](https://tecnico.ulisboa.pt/pt/), working at [Premium Minds](https://premium-minds.com/) and a member of [GameDev Tecnico](https://gamedev.tecnico.ulisboa.pt/).
+I am currently working at [Premium Minds](https://premium-minds.com/) and studied software engineering at [Instituto Superior Tecnico](https://tecnico.ulisboa.pt/pt/), where I was a member of [GameDev Tecnico](https://gamedev.tecnico.ulisboa.pt/)
 
 Programmer and Gamedev enthusiastc always eager to learn.
 
-[Itch.io account](https://pessego.itch.io) | [Linkedin](https://www.linkedin.com/in/eduardo-barrancos-72675417a/) | [Instagram account](https://www.instagram.com/reallyokeyfruit/) | [Twitter Account](https://twitter.com/ReallyOkeyFruit)
+[Itch.io account](https://pessego.itch.io) | [Linkedin](https://www.linkedin.com/in/eduardo-barrancos-72675417a/)
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs?username=EdBarrancos&theme=midnight-purple&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=EdBarrancos&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **EdBarrancos/EdBarrancos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
