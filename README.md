@@ -12,7 +12,7 @@ Programmer and Gamedev enthusiastc always eager to learn.
 
 ---
 
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=EdBarrancos&theme=tokyonight&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api?username=EdBarrancos&theme=tokyonight&layout=compact)](https://github.com/EdBarrancos/github-readme-stats)
 
 <!--
 **EdBarrancos/EdBarrancos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
